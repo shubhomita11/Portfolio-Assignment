@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background: #343a40;
+}
+
+header h1 {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section {
+    padding: 2rem 0;
+}
+
+#about img {
+    border: 5px solid #343a40;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+footer {
+    background: #343a40;
+}
+
+footer p {
+    margin: 0;
+}
